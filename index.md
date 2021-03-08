@@ -1,6 +1,6 @@
 ## Welcome to Xiaoyuan Zhang(张霄远) Homepages
 ### About Me
-
+My research focus on Optimization and Reinforcement Learning.
 
 ### Eudcation
 Master Degree Shanghai Jiao Tong University 2017-2020
@@ -19,22 +19,20 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 
 ### Contact
 
-You can contact me；
+You can contact me:
+
 xiaoyuanzh@163.com (domestic)
 
 xiaoyuanzh86@gmail.com (global)
 
 ### Others
 During my spare time, I play contract bridge.
+
 I rank 1st at The National University Bridge Championship (Teams/Shanxi/2017).
 
 I rank 2nd at The National University Bridge Championship (Pairs/Shanxi/2017).
