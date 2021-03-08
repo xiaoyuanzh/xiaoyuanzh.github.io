@@ -8,18 +8,8 @@ Master Degree @ Shanghai Jiao Tong University 2017-2020
 Bach Degree @ Shanghai Jiao Tong University 2013-2017
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-
+### News
+I ... at 2019.1.1
 
 
 ### Contact
