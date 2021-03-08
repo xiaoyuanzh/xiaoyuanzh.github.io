@@ -34,6 +34,7 @@ xiaoyuanzh86@gmail.com (global)
 During my spare time, I play contract bridge.
 
 I rank 1st at The National University Bridge Championship (Teams/Shanxi/2017).
+
 I rank 2nd at The National University Bridge Championship (Pairs/Shanxi/2017).
 
 I rank 1st at The International University Bridge Championship (Teams/Xuzhou/2018) held by the FISU.
