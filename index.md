@@ -1,6 +1,7 @@
-## Welcome to Xiaoyuan Zhang Homepages
+## Welcome to Xiaoyuan Zhang(张霄远) Homepages
 ### About Me
 Master Degree Shanghai Jiao Tong University 2017-2020
+
 Bach Degree Shanghai Jiao Tong University 2013-2017
 
 
@@ -21,18 +22,18 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
 
 ### Contact
 
 You can contact me；
 xiaoyuanzh@163.com (domestic)
+
 xiaoyuanzh86@gmail.com (global)
+
+### Others
+During my spare time, I play contract bridge.
+I rank 1st at National University Bridge Championship (Shanxi 2017).
+
+I rank 1st at International University Bridge Championship (Xuzhou 2018) held by the FISU.
+
+
