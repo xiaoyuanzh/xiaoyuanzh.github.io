@@ -12,6 +12,10 @@ Bach Degree @ Shanghai Jiao Tong University 2013-2017
 I ... at 2019.1.1
 
 
+### Internship
+I work as research internship in the Machine Learning group at MSRA from June 2019 to Sept. 2019, focusing on RL/IL algorithms, prounded supervised by Li Zhao and Tao Qin.
+
+
 ### Contact
 
 You can contact me:
