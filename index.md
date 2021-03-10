@@ -12,6 +12,9 @@ Bach Degree @ Shanghai Jiao Tong University 2013-2017
 I ... at 2019.1.1
 
 
+### Awards
+I won the Beauty of Programming Challeng held by MSRA and IEEE in 2017, which worth 100,000 RMB.
+
 ### Internship
 I worked as research internship at the Machine Learning group at MSRA from June 2019 to Sept. 2019, focusing on RL/IL algorithms, proudly supervised by Li Zhao and Tao Qin.
 
