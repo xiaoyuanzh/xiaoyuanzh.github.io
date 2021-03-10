@@ -13,7 +13,7 @@ I ... at 2019.1.1
 
 
 ### Internship
-I worked as research internship in the Machine Learning group at MSRA from June 2019 to Sept. 2019, focusing on RL/IL algorithms, prounded supervised by Li Zhao and Tao Qin.
+I worked as research internship at the Machine Learning group at MSRA from June 2019 to Sept. 2019, focusing on RL/IL algorithms, proudly supervised by Li Zhao and Tao Qin.
 
 
 ### Contact
